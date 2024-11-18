@@ -1,0 +1,36 @@
+header {
+    background-color: rgba(6, 6, 53, 0.356);
+    padding: 0px 10px;
+    color: white;
+    border-bottom: 1px solid white;
+
+    .logo {
+        border-right: 1px solid white;
+    }
+
+    nav {
+        ul {
+            gap: 50px !important;
+
+            li {
+                font-size: 18px;
+                font-weight: 500;
+            }
+        }
+    }
+
+    .right-content {
+        button {
+            background-color: transparent;
+            font-size: 20px;
+            color: white;
+            border: none;
+            margin-right: 20px;
+        }
+
+        a {
+            font-size: 20px;
+            font-weight: 600;
+        }
+    }
+}

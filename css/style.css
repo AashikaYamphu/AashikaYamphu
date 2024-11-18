@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  margin-inline: auto;
+  max-width: 1320px;
+  padding-inline: 20px;
+}
+
+.margin-top {
+  margin-top: 80px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-conten-between {
+  justify-content: space-between;
+}
+
+.justify-conten-center {
+  justify-content: center;
+}
+
+.images {
+  height: 100px;
+  width: 100px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=style.css.map */
